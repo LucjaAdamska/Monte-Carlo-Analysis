@@ -1,1 +1,1 @@
-Analiza skuteczności działania metody Monte Carlo w estymacji liczby pi. Przeprowadzono analizę zależności dokładności rozwiązania od ilości punktów pseudolosowych oraz przedstawiono różne drogi dojścia do rozwiązania, zależnie od ziarna losowego. 
+Analiza skuteczności działania metody Monte Carlo w estymacji wartości liczby pi. Przeprowadzono analizę zależności dokładności rozwiązania od ilości punktów pseudolosowych oraz przedstawiono różne drogi dojścia do rozwiązania, zależnie od ziarna losowego. 
